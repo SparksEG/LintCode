@@ -1,0 +1,2 @@
+# LintCode
+Answer for LintCode
