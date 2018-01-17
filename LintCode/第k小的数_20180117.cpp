@@ -41,8 +41,8 @@ int kthLargestElementHelper(int k, vector<int> &nums, int Left, int Right)
 		int i = Left;	int j = Right - 1;
 		for (;;)
 		{
-			while (nums[++i] < Pivot);
-			while (nums[--j] > Pivot);
+			while (nums[++i] < Pivot);//重点
+			while (nums[--j] > Pivot);//重点
 			if (i < j)
 				Swap(nums[i], nums[j]);
 			else
@@ -88,3 +88,11 @@ int main()
 
 	system("pause");
 }
+
+
+/*-------------------总结----------------------*/
+//		快速排序的微改：快速选择。
+//		参考书《数据结构与算法分析》。
+//		重点1：标注。考虑到Pivot=A[i]=A[j]的情况。
+//		重点2：快排（选）方法只能用于N>=3的情况。
+
