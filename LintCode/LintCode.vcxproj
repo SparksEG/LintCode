@@ -115,7 +115,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="丑数II_20180116.cpp" />
+    <ClCompile Include="第k大的数_20180116.cpp" />
+    <ClCompile Include="第k小的数_20180117.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
