@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="合并排序数组_20180117.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="第k小的数_20180117.cpp">
+    <ClCompile Include="二分查找_14.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
