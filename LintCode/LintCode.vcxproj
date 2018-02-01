@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="30_插入区间.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{5A600472-30E8-4024-AEE1-62B47614F0FF}</ProjectGuid>
@@ -114,21 +117,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="01_A+B.cpp" />
-    <ClCompile Include="04_丑数II.cpp" />
-    <ClCompile Include="14_二分查找.cpp" />
-    <ClCompile Include="06_合并排序数组.cpp" />
-    <ClCompile Include="13_字符串查找.cpp" />
-    <ClCompile Include="02_尾部的零.cpp" />
-    <ClCompile Include="22_平面列表.cpp" />
-    <ClCompile Include="28_搜索二维矩阵.cpp" />
-    <ClCompile Include="08_旋转字符串.cpp" />
-    <ClCompile Include="05_第k大的数.cpp" />
-    <ClCompile Include="05_第k小的数.cpp" />
-    <ClCompile Include="03_统计数字.cpp" />
-    <ClCompile Include="09_Fizz Buzz.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

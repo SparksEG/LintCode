@@ -15,43 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02_尾部的零.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="05_第k小的数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="13_字符串查找.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="08_旋转字符串.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="03_统计数字.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="28_搜索二维矩阵.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="22_平面列表.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06_合并排序数组.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="14_二分查找.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="05_第k大的数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="01_A+B.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="04_丑数II.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="09_Fizz Buzz.cpp">
+    <ClCompile Include="30_插入区间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

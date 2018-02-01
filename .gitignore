@@ -286,3 +286,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/LintCode/07_二叉树的序列与反序列化.cpp
+/LintCode/finoutcpp.cpp
+/LintCode/fish.txt
+/LintCode/07_二叉树.cpp
+/LintCode/30_插入区间_.cpp
